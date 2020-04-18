@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>ShimizuShiori</Authors>
+    <Company>ShimizuShiori</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Product>ShimizuShiori</Product>
+    <Description>基本库</Description>
+  </PropertyGroup>
+
+</Project>
