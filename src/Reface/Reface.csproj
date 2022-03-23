@@ -2,11 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>ShimizuShiori</Authors>
-    <Company>ShimizuShiori</Company>
+    <Authors>Felix</Authors>
+    <Company>Felix</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Product>ShimizuShiori</Product>
+    <Product>Felix</Product>
     <Description>基本库</Description>
+    <Version>2.0.1</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Reflection.Emit.Lightweight" Version="4.7.0" />
+  </ItemGroup>
 
 </Project>
